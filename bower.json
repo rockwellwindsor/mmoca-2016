@@ -1,0 +1,29 @@
+{
+  "name": "mmoca",
+  "description": "app for the 2016 MMoCA project for Theorythree interactive and Chapa design",
+  "main": "index.js",
+  "authors": [
+    "Rockwell Windsor Rice"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "MMoCA",
+    "2016"
+  ],
+  "homepage": "https://github.com/rockwellwindsor/mmoca2016",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.2",
+    "angular-resource": "^1.5.2",
+    "angular-route": "^1.5.2"
+  }
+}
